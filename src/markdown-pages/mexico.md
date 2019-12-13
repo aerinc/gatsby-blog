@@ -1,0 +1,14 @@
+---
+title: 'Bienvenido a Mexico!'
+date: '2019-12-03'
+description: 'Mexico'
+featuredImage: '../images/chichenitza.JPG'
+---
+### Welcome back! 
+
+So today I’d like to feature Mexico and the Mayan ruins known as Chichén Itzá.
+The Mayans were quite a mysterious group that had a complex Calendar system, were able to calculate complex mathematical equations and understand astronomy on an impressive level. They also practiced human sacrifice as a means of appeasing the gods and bringing good weather and crops. They got fresh drinking water from the cenotes (think of these as underground caves or sunken areas filled with fresh water and an opening at the top revealing the sky). Cenotes are truly amazing, and I highly recommend swimming in one if you ever get the chance. It was a bit crowded with tourists at the time we went (in July), but still worth it. After our swim, we were able to have a nice meal of delicious lime soup and fish baked in corn husk, washed down with a fruit drink called “monkey blood”, which of course didn’t contain actual monkey blood, but called so due to its dark red color. 
+
+More often than not, many people decide to stay at nearby cities like Tulum or Cancun, as they are only a couple of hours from the site of where Chichén Itzá is located (or as our tour guide called it “chicken pizza”, as many tourists pronounce it that way). We started out early from our hotel in the Hotel Zone part of Cancun and went by bus. It wasn’t a very long drive and I definitely recommend getting a tour guide, as ours was amazing, and gave lots of details about Mayan life and culture. He is a descendant of the Maya, many of which still live around that area. According to our guide, the number 13 was very important for the Mayans and they basically calculated everything down to a meticulous level. During the fall equinox, as the sun was setting or rising (I can’t quite remember which), the falling light of the sun would hit the steps of the central pyramid, and create the illusion of a “snake”, moving down. Snakes were an important and symbolic feature for the Mayans due their shape which was similar to the shape of rivers and streams. There was another temple built farther away to be used as an “in case of emergency” sort of thing, if the weather wasn’t suitable on that particular day. However, when the Europeans arrived along with their preconceived notions about the snake (representative of the devil in the Garden of Eden), it didn’t bode well for the Mayans who worshipped them. The Mayans were heavily influenced by another group known as the Toltecs, who were notable for their military strength and power. Their architectural styles greatly influenced the Mayans.  
+
+Of course, when one thinks of Cancun, Mexico, most people generally assume it’s a party city, with cheap alcohol and nice sandy beaches. However, for those who are fans of history, especially the Mayans, it’s definitely a place worth visiting. 

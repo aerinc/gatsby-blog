@@ -1,0 +1,13 @@
+---
+title: 'Aşure, The Oldest Dessert in the World?'
+date: '2019-12-09'
+description: 'Turkish Dessert'
+featuredImage: '../images/asure.jpg'
+---
+### A Cornucopia of flavor...
+
+ Aşure, also known as Noah’s ark pudding, is a traditional dessert served in Turkey every fall season. According to history, the dessert was invented by Noah, who on short food supply, made a mixture of whatever ingredients were still left on the ark (hence the somewhat seemingly random and diverse list of ingredients). Aşure is served during a specific holiday in the Islamic calendar around the time of Ramadan. I first tried this dessert while learning Turkish at a language course in Izmir. My initial reaction wasn’t pleasant, as I thought to myself, who puts beans and chickpeas in a dessert?! Needless to say, I wasn’t that impressed with the taste or appearance. 
+
+ Fast forward to now, and I look forward to this tasty dessert every year. I think after trying it a few times more (especially homemade versions of it), the dessert grew on me. Normally, aşure is meant to be prepared in large quantities and given away to friends, family and neighbors. This year, I decided to make it for myself, even though I was daunted by the sheer amount of ingredients that would be required- chickpeas, beans, almonds, wheat, sugar, figs, orange peels, dried apricots, raisins, etc. Everyone makes this dish differently, and it’s always refreshing to see how others prepare the dish (I once had it with rosewater, which was quite lovely). 
+
+ So after deciding that I would make the dish, I needed to gather up the ingredients. I went to the local farmer’s market (called a pazar), and bought most of the dried fruit and other ingredients. Other items I already had at home, and some items I had to buy from the grocery store. After buying everything, I started off by preparing the base, which consists of wheat/barley, milk, sugar and water. This mixture cooks for a couple of hours, and afterwards you add the dried fruit pieces like figs, orange peels, currents etc. Garnishing it usually requires a touch of cinnamon and pomegranate seeds. After making the dish, I prepared several containers to be given away to friends and neighbors. Overall, I was very pleased with how my aşure pudding turned out. I suggest making it with a friend so as not to be overwhelmed. If you’re interested in trying to make it yourself, here is a link to one version of the recipe: https://www.thespruceeats.com/turkish-noahs-ark-pudding-3274180 So, if you’re looking for a healthier alternative to traditional desserts, why not give it a try? 
