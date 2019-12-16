@@ -1,10 +1,11 @@
 ---
-title: 'The Big Apple'
-date: '2019-12-16'
-description: 'Exploring NYC"
-featuredImage: '../images/nyc.jpg'
+title: "The City That Never Sleeps"
+date: "2019-12-16"
+description: "Life in the Big Apple"
+featuredImage: "../images/nyc.jpg"
 ---
-### Life in the city...
+
+### Life in the Big Apple...
 
 After graduating from Temple University in Philadelphia in 2011, I moved to New York City to help my parents run their retail business. When it comes to NYC, I have many mixed feelings. As I grew up on a farm in southern Pennsylvania with the Amish as my neighbors, it definitely was a big change for me. New York City consists of 5 boroughs- Manhattan, the Bronx, Queens, Brooklyn and Staten Island. I worked in Manhattan (the place that most people think of as “New York”), but lived in Astoria, Queens, which is a mostly residential area with a pre-dominantly Greek population. I would take the subway into “the city” (Manhattan) each day to work at my parents’ vintage boutique in the downtown neighborhood known as Noho. 
 
